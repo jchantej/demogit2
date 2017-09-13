@@ -23,9 +23,5 @@ public class Clase3 {
         
     }
     
-    public void m2() {	
-        
-    }
-
 
 }
