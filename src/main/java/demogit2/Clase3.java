@@ -22,5 +22,10 @@ public class Clase3 {
     public void m() {	
         
     }
+    
+    public void m2() {	
+        
+    }
+
 
 }
